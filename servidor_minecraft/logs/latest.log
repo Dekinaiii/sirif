@@ -1,45 +1,91 @@
-[20:21:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:21:54] [ServerMain/INFO]: Loaded 1290 recipes
-[20:21:54] [ServerMain/INFO]: Loaded 1399 advancements
-[20:21:54] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[20:21:54] [Server thread/INFO]: Loading properties
-[20:21:54] [Server thread/INFO]: Default game type: SURVIVAL
-[20:21:54] [Server thread/INFO]: Generating keypair
-[20:21:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:21:55] [Server thread/INFO]: Using epoll channel type
-[20:21:55] [Server thread/INFO]: Preparing level "world"
-[20:21:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:21:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[20:21:59] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[20:21:59] [Worker-Main-2/INFO]: Preparing spawn area: 73%
-[20:21:59] [Server thread/INFO]: Time elapsed: 1047 ms
-[20:21:59] [Server thread/INFO]: Done (4.254s)! For help, type "help"
-[20:24:11] [User Authenticator #1/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
-[20:24:13] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:51976] logged in with entity id 1 at (-347.6667953092411, -24.0, 322.52612232217086)
-[20:24:13] [Server thread/INFO]: Dekinaiii joined the game
-[20:24:37] [Server thread/INFO]: Dekinaiii (/[0:0:0:0:0:0:0:1%0]:57538) lost connection: Timed out
-[20:32:00] [User Authenticator #2/INFO]: UUID of player matitpp is c57ad682-0a73-45ff-b42b-3d411e8aaf31
-[20:32:02] [Server thread/INFO]: matitpp[/[0:0:0:0:0:0:0:1%0]:43606] logged in with entity id 1436 at (288.30000001192093, 82.0, -79.63283759706756)
-[20:32:02] [Server thread/INFO]: matitpp joined the game
-[20:32:19] [Server thread/INFO]: <Dekinaiii> pille diamante
-[20:32:27] [Server thread/INFO]: <Dekinaiii> pero adivina quien no ha pillado hierro
-[20:32:32] [Server thread/INFO]: <matitpp> efe
-[20:36:26] [Server thread/INFO]: <Dekinaiii> hace tu casa escondida pq completamente autorizadas las raids y las tnt
-[20:36:39] [Server thread/INFO]: <matitpp> weno
-[20:37:57] [Server thread/INFO]: <Dekinaiii> en la -59 no sale hierro?
-[20:38:06] [Server thread/INFO]: <matitpp> ese es el diamante
-[20:38:13] [Server thread/INFO]: <Dekinaiii> si se
-[20:38:21] [Server thread/INFO]: <Dekinaiii> pero random generate
-[20:38:28] [Server thread/INFO]: <Dekinaiii> un hierrito por ahi
-[20:38:33] [Server thread/INFO]: <matitpp> si
-[20:40:39] [Server thread/INFO]: Dekinaiii has made the advancement [Acquire Hardware]
-[20:40:44] [Server thread/INFO]: Dekinaiii has made the advancement [Isn't It Iron Pick]
-[20:40:54] [Server thread/INFO]: Dekinaiii has made the advancement [Diamonds!]
-[20:41:22] [Server thread/INFO]: <Dekinaiii> era uno solo me cago en todo
-[20:44:28] [Server thread/INFO]: Dekinaiii was slain by Zombie
-[20:44:32] [Server thread/INFO]: <Dekinaiii> xd
-[20:44:39] [Server thread/INFO]: [Dekinaiii: Teleported Dekinaiii to -360.500000, -24.000000, 327.500000]
-[20:44:48] [Server thread/INFO]: matitpp lost connection: Timed out
-[20:44:48] [Server thread/INFO]: matitpp left the game
-[20:44:48] [Server thread/WARN]: handleDisconnection() called twice
-[20:45:56] [Server thread/INFO]: Dekinaiii has made the advancement [Sweet Dreams]
+[21:25:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:25:03] [ServerMain/INFO]: Loaded 1290 recipes
+[21:25:03] [ServerMain/INFO]: Loaded 1399 advancements
+[21:25:04] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:25:04] [Server thread/INFO]: Loading properties
+[21:25:04] [Server thread/INFO]: Default game type: SURVIVAL
+[21:25:04] [Server thread/INFO]: Generating keypair
+[21:25:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:25:04] [Server thread/INFO]: Using epoll channel type
+[21:25:04] [Server thread/INFO]: Preparing level "world"
+[21:25:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:25:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:25:08] [Worker-Main-2/INFO]: Preparing spawn area: 57%
+[21:25:08] [Server thread/INFO]: Time elapsed: 571 ms
+[21:25:08] [Server thread/INFO]: Done (3.541s)! For help, type "help"
+[21:25:35] [User Authenticator #1/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
+[21:25:37] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:56434] logged in with entity id 5 at (-453.92866928957704, 72.0, 352.80702034034044)
+[21:25:37] [Server thread/INFO]: Dekinaiii joined the game
+[21:27:32] [User Authenticator #2/INFO]: UUID of player matitpp is c57ad682-0a73-45ff-b42b-3d411e8aaf31
+[21:27:34] [Server thread/INFO]: matitpp[/[0:0:0:0:0:0:0:1%0]:48834] logged in with entity id 757 at (-0.342508254089181, 75.0, -707.6999999880791)
+[21:27:34] [Server thread/INFO]: matitpp joined the game
+[21:28:55] [Server thread/INFO]: Dekinaiii has made the advancement [Ice Bucket Challenge]
+[21:32:21] [Server thread/INFO]: matitpp has made the advancement [Acquire Hardware]
+[21:33:52] [Server thread/INFO]: matitpp has made the advancement [Sweet Dreams]
+[21:34:02] [Server thread/INFO]: <matitpp> duerme
+[21:34:03] [Server thread/INFO]: <matitpp> puta
+[21:34:13] [Server thread/INFO]: <Dekinaiii> ando esplorando
+[21:34:30] [Server thread/INFO]: <matitpp> mira discord
+[21:34:40] [Server thread/INFO]: <matitpp> pone ese comando
+[21:36:02] [Server thread/INFO]: <Dekinaiii> no funciono
+[21:36:07] [Server thread/INFO]: <matitpp> como q no
+[21:37:20] [Server thread/INFO]: matitpp lost connection: Timed out
+[21:37:20] [Server thread/INFO]: matitpp left the game
+[21:37:20] [Server thread/WARN]: handleDisconnection() called twice
+[21:38:33] [Server thread/INFO]: [Dekinaiii: Gamerule playersSleepingPercentage is now set to: 0]
+[21:42:04] [Server thread/INFO]: [Dekinaiii: Summoned new Arrow]
+[21:42:38] [Server thread/INFO]: [Dekinaiii: Summoned new Parrot]
+[21:42:39] [Server thread/INFO]: [Dekinaiii: Summoned new Parrot]
+[21:42:39] [Server thread/INFO]: [Dekinaiii: Summoned new Parrot]
+[21:42:40] [Server thread/INFO]: [Dekinaiii: Summoned new Parrot]
+[21:42:46] [Server thread/INFO]: [Dekinaiii: Summoned new Parrot]
+[21:42:47] [Server thread/INFO]: [Dekinaiii: Summoned new Parrot]
+[21:42:50] [Server thread/INFO]: [Dekinaiii: Summoned new Parrot]
+[21:42:52] [Server thread/INFO]: [Dekinaiii: Summoned new Parrot]
+[21:42:55] [Server thread/INFO]: [Dekinaiii: Summoned new Parrot]
+[21:43:41] [Server thread/INFO]: [Dekinaiii: Gave 1 [Beetroot Seeds] to Dekinaiii]
+[21:43:46] [Server thread/INFO]: [Dekinaiii: Gave 4 [Beetroot Seeds] to Dekinaiii]
+[21:43:49] [Server thread/INFO]: [Dekinaiii: Gave 4 [Beetroot Seeds] to Dekinaiii]
+[21:43:52] [Server thread/INFO]: [Dekinaiii: Gave 4 [Beetroot Seeds] to Dekinaiii]
+[21:43:54] [Server thread/INFO]: [Dekinaiii: Gave 4 [Beetroot Seeds] to Dekinaiii]
+[21:44:58] [User Authenticator #3/INFO]: UUID of player MafiOMT is 557f3a42-14f6-4e81-a9e7-a9cc6cea0e36
+[21:45:00] [Server thread/INFO]: MafiOMT[/[0:0:0:0:0:0:0:1%0]:47802] logged in with entity id 12084 at (-382.69999998807907, 78.0, 353.30000001192093)
+[21:45:00] [Server thread/INFO]: MafiOMT joined the game
+[21:48:22] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:48:29] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:48:41] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:51:10] [Server thread/INFO]: [Dekinaiii: Gave 5 [Raw Salmon] to Dekinaiii]
+[21:51:17] [Server thread/INFO]: MafiOMT has made the advancement [Getting an Upgrade]
+[21:51:19] [Server thread/INFO]: MafiOMT has made the advancement [Stone Age]
+[21:51:19] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:51:38] [Server thread/INFO]: MafiOMT has made the advancement [Acquire Hardware]
+[21:52:49] [Server thread/INFO]: MafiOMT has made the advancement [Isn't It Iron Pick]
+[21:53:18] [Server thread/INFO]: MafiOMT has made the advancement [Suit Up]
+[21:53:27] [Server thread/INFO]: [Dekinaiii: Gave 1 [Acacia Door] to Dekinaiii]
+[21:54:01] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:54:04] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:54:06] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:54:08] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:54:10] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:54:13] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:54:15] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:54:16] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:54:17] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:54:18] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:54:19] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:54:20] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:54:21] [Server thread/INFO]: [Dekinaiii: Summoned new Cat]
+[21:54:31] [Server thread/INFO]: [Dekinaiii: Gave 1 [Netherite Axe] to Dekinaiii]
+[21:57:04] [Server thread/INFO]: [Dekinaiii: Teleported MafiOMT to Dekinaiii]
+[21:57:17] [User Authenticator #4/INFO]: UUID of player matitpp is c57ad682-0a73-45ff-b42b-3d411e8aaf31
+[21:57:18] [Server thread/INFO]: matitpp[/[0:0:0:0:0:0:0:1%0]:44378] logged in with entity id 16877 at (85.59569163619017, 65.5625, -436.6228968855546)
+[21:57:18] [Server thread/INFO]: matitpp joined the game
+[21:57:25] [Server thread/INFO]: <matitpp> tu madre tiene una polla
+[21:57:29] [Server thread/INFO]: <matitpp> q ya la quisiera yooo
+[21:58:18] [Server thread/INFO]: matitpp lost connection: Timed out
+[21:58:18] [Server thread/INFO]: matitpp left the game
+[21:59:36] [Server thread/INFO]: MafiOMT has made the advancement [The Parrots and the Bats]
+[22:02:55] [Server thread/INFO]: [Dekinaiii: Teleported Dekinaiii to -6719.500000, 66.000000, 1488.500000]
+[22:02:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3569ms or 71 ticks behind
+[22:03:08] [Server thread/INFO]: [Dekinaiii: Teleported Dekinaiii to -6719.500000, 66.000000, 1488.500000]
+[22:04:43] [Server thread/INFO]: [Dekinaiii: Teleported MafiOMT to Dekinaiii]
