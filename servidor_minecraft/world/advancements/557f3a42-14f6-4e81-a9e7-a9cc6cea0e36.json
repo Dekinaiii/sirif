@@ -7,13 +7,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2024-10-13 22:00:58 +0000",
+      "minecraft:flower_forest": "2024-10-13 23:19:30 +0000",
       "minecraft:beach": "2024-10-13 21:57:16 +0000",
       "minecraft:forest": "2024-10-13 21:10:04 +0000",
       "minecraft:sparse_jungle": "2024-10-13 21:48:44 +0000",
+      "minecraft:river": "2024-10-13 21:02:53 +0000",
+      "minecraft:old_growth_birch_forest": "2024-10-13 22:00:58 +0000",
+      "minecraft:deep_dark": "2024-10-13 23:22:43 +0000",
       "minecraft:jungle": "2024-10-13 21:09:46 +0000",
       "minecraft:cherry_grove": "2024-10-13 22:04:55 +0000",
-      "minecraft:river": "2024-10-13 21:02:53 +0000",
       "minecraft:meadow": "2024-10-13 22:05:25 +0000",
       "minecraft:birch_forest": "2024-10-13 22:01:23 +0000",
       "minecraft:savanna": "2024-10-13 21:07:49 +0000",
@@ -152,6 +154,7 @@
       "cooked_porkchop": "2024-10-13 22:03:23 +0000",
       "bread": "2024-10-13 23:03:06 +0000",
       "rotten_flesh": "2024-10-13 23:01:34 +0000",
+      "cooked_mutton": "2024-10-13 23:23:25 +0000",
       "cooked_cod": "2024-10-13 22:00:42 +0000",
       "melon_slice": "2024-10-13 21:11:53 +0000",
       "carrot": "2024-10-13 23:14:08 +0000"
@@ -482,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-10-13 23:19:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-10-13 21:51:37 +0000"
@@ -641,6 +650,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-10-13 21:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-10-13 23:19:47 +0000"
     },
     "done": true
   },
@@ -860,6 +875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-10-13 23:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-10-13 21:56:57 +0000"
@@ -938,6 +959,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-10-13 23:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_pink_bed": {
     "criteria": {
       "has_needed_dye": "2024-10-13 22:17:38 +0000"
@@ -992,6 +1019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-10-13 23:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-10-13 23:08:54 +0000"
@@ -1000,6 +1033,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2024-10-13 23:23:15 +0000",
+      "minecraft:skeleton": "2024-10-13 23:20:56 +0000",
       "minecraft:zombie": "2024-10-13 22:45:16 +0000"
     },
     "done": false
@@ -1091,6 +1126,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-10-13 21:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-10-13 23:19:47 +0000"
     },
     "done": true
   },
@@ -1226,6 +1267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-10-13 23:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_pink_carpet": {
     "criteria": {
       "has_needed_dye": "2024-10-13 22:17:38 +0000"
@@ -1349,6 +1396,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-10-13 22:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-10-13 23:19:47 +0000"
     },
     "done": true
   },
