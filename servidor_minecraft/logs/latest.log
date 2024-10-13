@@ -1,81 +1,52 @@
-[23:17:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[23:17:31] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[23:17:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[23:17:31] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
-[23:17:31] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_422, running on Linux:amd64:6.8.0-1014-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[23:17:31] [main/INFO] [FML]: Searching /workspaces/testing/servidor_minecraft/./mods for mods
-[23:17:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[23:17:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[23:17:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[23:17:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[23:17:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:17:33] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[23:17:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:17:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[23:17:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[23:17:33] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[23:17:33] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[23:17:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[23:17:35] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
-[23:17:35] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[23:17:36] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[23:17:36] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[23:17:36] [Server thread/INFO] [FML]: Config directory created successfully
-[23:17:36] [Server thread/INFO] [FML]: Searching /workspaces/testing/servidor_minecraft/./mods for mods
-[23:17:36] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
-[23:17:36] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[23:17:37] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
-[23:17:37] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
-[23:17:37] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[23:17:37] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[23:17:37] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[23:17:37] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[23:17:37] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[23:17:37] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[23:17:37] [Server thread/INFO] [FML]: Applying holder lookups
-[23:17:37] [Server thread/INFO] [FML]: Holder lookups applied
-[23:17:37] [Server thread/INFO] [FML]: Applying holder lookups
-[23:17:37] [Server thread/INFO] [FML]: Holder lookups applied
-[23:17:37] [Server thread/INFO] [FML]: Applying holder lookups
-[23:17:37] [Server thread/INFO] [FML]: Holder lookups applied
-[23:17:37] [Server thread/INFO] [FML]: Applying holder lookups
-[23:17:37] [Server thread/INFO] [FML]: Holder lookups applied
-[23:17:37] [Server thread/INFO] [FML]: Injecting itemstacks
-[23:17:37] [Server thread/INFO] [FML]: Itemstack injection complete
-[23:17:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[23:17:37] [Server thread/WARN] [net.minecraft.server.dedicated.PropertyManager]: server.properties does not exist
-[23:17:37] [Server thread/INFO] [net.minecraft.server.dedicated.PropertyManager]: Generating new properties file
-[23:17:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[23:17:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[23:17:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[23:17:37] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[23:17:37] [Server thread/INFO] [FML]: Applying holder lookups
-[23:17:37] [Server thread/INFO] [FML]: Holder lookups applied
-[23:17:37] [Server thread/INFO] [FML]: Injecting itemstacks
-[23:17:37] [Server thread/INFO] [FML]: Itemstack injection complete
-[23:17:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
-[23:17:38] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
-[23:17:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[23:17:38] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@5a67fbb3)
-[23:17:38] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[23:17:39] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5a67fbb3)
-[23:17:39] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@5a67fbb3)
-[23:17:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[23:17:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 11%
-[23:17:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 21%
-[23:17:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 36%
-[23:17:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 52%
-[23:17:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 74%
-[23:17:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 99%
-[23:17:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (8.023s)! For help, type "help" or "?"
-[23:17:46] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:17:46] [Server thread/INFO] [FML]: Unloading dimension 1
-[23:17:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[23:17:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[23:17:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[23:17:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[23:17:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[23:17:53] [Server thread/INFO] [FML]: Unloading dimension 0
-[23:17:53] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[23:17:53] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[23:17:53] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[19:27:17] [ServerMain/ERROR]: Failed to load properties from file: server.properties
+java.nio.file.NoSuchFileException: server.properties
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
+	at java.base/java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
+	at apr.b(SourceFile:62) ~[server-1.21.1.jar:?]
+	at apo.a(SourceFile:141) ~[server-1.21.1.jar:?]
+	at app.<init>(SourceFile:12) ~[server-1.21.1.jar:?]
+	at net.minecraft.server.Main.main(SourceFile:114) ~[server-1.21.1.jar:?]
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[19:27:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:27:18] [ServerMain/INFO]: No existing world data, creating new world
+[19:27:18] [ServerMain/INFO]: Loaded 1290 recipes
+[19:27:19] [ServerMain/INFO]: Loaded 1399 advancements
+[19:27:19] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[19:27:19] [Server thread/INFO]: Loading properties
+[19:27:19] [Server thread/INFO]: Default game type: SURVIVAL
+[19:27:19] [Server thread/INFO]: Generating keypair
+[19:27:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:27:19] [Server thread/INFO]: Using epoll channel type
+[19:27:19] [Server thread/INFO]: Preparing level "world"
+[19:27:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:27:25] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[19:27:26] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[19:27:27] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[19:27:27] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[19:27:28] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[19:27:28] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[19:27:29] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[19:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[19:27:30] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[19:27:30] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[19:27:31] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[19:27:31] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[19:27:32] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[19:27:32] [Worker-Main-3/INFO]: Preparing spawn area: 53%
+[19:27:32] [Server thread/INFO]: Time elapsed: 7190 ms
+[19:27:32] [Server thread/INFO]: Done (13.203s)! For help, type "help"
+[19:28:39] [User Authenticator #1/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
+[19:28:41] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:45300] logged in with entity id 13 at (-5.5, 97.0, 9.5)
+[19:28:41] [Server thread/INFO]: Dekinaiii joined the game
+[19:29:58] [Server thread/INFO]: Made Dekinaiii a server operator
+[19:30:22] [Server thread/INFO]: [Dekinaiii: The difficulty has been set to Hard]
+[19:31:26] [Server thread/INFO]: [Dekinaiii: Set own game mode to Creative Mode]
+[19:31:45] [Server thread/INFO]: [Dekinaiii: Set the world spawn point to 250, 90, 9 [0.0]]
