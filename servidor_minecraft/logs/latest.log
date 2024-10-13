@@ -1,69 +1,20 @@
-[19:48:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:48:07] [ServerMain/INFO]: Loaded 1290 recipes
-[19:48:07] [ServerMain/INFO]: Loaded 1399 advancements
-[19:48:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[19:48:07] [Server thread/INFO]: Loading properties
-[19:48:07] [Server thread/INFO]: Default game type: SURVIVAL
-[19:48:07] [Server thread/INFO]: Generating keypair
-[19:48:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:48:07] [Server thread/INFO]: Using epoll channel type
-[19:48:08] [Server thread/INFO]: Preparing level "world"
-[19:48:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:48:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:48:11] [Server thread/INFO]: Time elapsed: 532 ms
-[19:48:11] [Server thread/INFO]: Done (3.611s)! For help, type "help"
-[19:48:28] [Server thread/INFO]: Nothing changed. The player already is an operator
-[19:49:31] [User Authenticator #1/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
-[19:49:32] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:51984] logged in with entity id 55 at (250.81282345102633, 90.0, 8.876983708286367)
-[19:49:33] [Server thread/INFO]: Dekinaiii joined the game
-[19:50:03] [Server thread/INFO]: Dekinaiii lost connection: Timed out
-[19:50:03] [Server thread/INFO]: Dekinaiii left the game
-[19:52:18] [User Authenticator #2/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
-[19:52:20] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:36470] logged in with entity id 276 at (256.84361531626644, 104.11813560797107, 3.363196003808543)
-[19:52:20] [Server thread/INFO]: Dekinaiii joined the game
-[19:52:48] [Server thread/INFO]: Dekinaiii has made the advancement [Monster Hunter]
-[20:02:47] [User Authenticator #3/INFO]: UUID of player matitpp is c57ad682-0a73-45ff-b42b-3d411e8aaf31
-[20:02:49] [Server thread/INFO]: matitpp[/[0:0:0:0:0:0:0:1%0]:33410] logged in with entity id 1631 at (250.5, 89.0, 14.5)
-[20:02:49] [Server thread/INFO]: matitpp joined the game
-[20:03:02] [Server thread/INFO]: <matitpp> y esa skin d paraguayo
-[20:03:12] [Server thread/INFO]: <Dekinaiii> es un gato
-[20:03:21] [Server thread/INFO]: <matitpp> ta mas bugeada tu wea
-[20:03:29] [Server thread/INFO]: <Dekinaiii> mira el cuerpo
-[20:03:33] [Server thread/INFO]: <Dekinaiii> jett
-[20:03:37] [Server thread/INFO]: <Dekinaiii> ma wons
-[20:03:38] [Server thread/INFO]: matitpp has made the advancement [Monster Hunter]
-[20:03:44] [Server thread/INFO]: <matitpp> sensillo
-[20:03:48] [Server thread/INFO]: <Dekinaiii> toma
-[20:03:55] [Server thread/INFO]: <Dekinaiii> regalo de primer jugador
-[20:04:01] [Server thread/INFO]: <matitpp> pero tu eres el primer jugador
-[20:04:11] [Server thread/INFO]: <matitpp> care chimba
-[20:04:41] [Server thread/INFO]: <Dekinaiii> mal agradecido
-[20:04:55] [Server thread/INFO]: [Dekinaiii: Set the time to 1000]
-[20:04:55] [Server thread/INFO]: <matitpp> as d dia
-[20:04:59] [Server thread/INFO]: <matitpp> naisu
-[20:05:05] [Server thread/INFO]: <Dekinaiii> ya pa que jugui noma
-[20:05:10] [Server thread/INFO]: <Dekinaiii> no cambio nunca mas
-[20:05:13] [Server thread/INFO]: <matitpp> y pon dificil
-[20:05:16] [Server thread/INFO]: <matitpp> ta en facil tu wea
-[20:05:32] [Server thread/INFO]: [Dekinaiii: The difficulty has been set to Hard]
-[20:05:36] [Server thread/INFO]: <Dekinaiii> ahi teni dificil
-[20:05:43] [Server thread/INFO]: <Dekinaiii> perdon reinicie como 10 veces la wea
-[20:05:48] [Server thread/INFO]: <matitpp> si cache
-[20:05:52] [Server thread/INFO]: <matitpp> el spam d mensajes
-[20:05:59] [Server thread/INFO]: [Dekinaiii: Set own game mode to Survival Mode]
-[20:06:08] [Server thread/INFO]: matitpp has made the advancement [Stone Age]
-[20:06:18] [Server thread/INFO]: matitpp has made the advancement [Getting an Upgrade]
-[20:08:13] [Server thread/INFO]: <Dekinaiii> estaba pensando en poner tpa pero no mejor
-[20:08:17] [Server thread/INFO]: <Dekinaiii> que se hagan hombres
-[20:08:17] [Server thread/INFO]: <matitpp> na
-[20:08:20] [Server thread/INFO]: <matitpp> ni un brillo
-[20:11:02] [Server thread/INFO]: <Dekinaiii> buena wn gracias por el pico de madera
-[20:11:14] [Server thread/INFO]: Dekinaiii has made the advancement [Stone Age]
-[20:11:22] [Server thread/INFO]: <matitpp> un plaser
-[20:13:46] [Server thread/INFO]: Dekinaiii has made the advancement [Getting an Upgrade]
-[20:14:48] [Server thread/INFO]: <Dekinaiii> teni cama?
-[20:16:35] [Server thread/INFO]: matitpp lost connection: Timed out
-[20:16:35] [Server thread/INFO]: matitpp left the game
-[20:17:08] [Server thread/INFO]: [Dekinaiii: Teleported Dekinaiii to -360.500000, -24.000000, 327.500000]
-[20:17:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3050ms or 61 ticks behind
-[20:17:12] [Server thread/INFO]: Dekinaiii has made the advancement [Minecraft: Trial(s) Edition]
+[20:21:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:21:54] [ServerMain/INFO]: Loaded 1290 recipes
+[20:21:54] [ServerMain/INFO]: Loaded 1399 advancements
+[20:21:54] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:21:54] [Server thread/INFO]: Loading properties
+[20:21:54] [Server thread/INFO]: Default game type: SURVIVAL
+[20:21:54] [Server thread/INFO]: Generating keypair
+[20:21:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:21:55] [Server thread/INFO]: Using epoll channel type
+[20:21:55] [Server thread/INFO]: Preparing level "world"
+[20:21:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:21:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:21:59] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[20:21:59] [Worker-Main-2/INFO]: Preparing spawn area: 73%
+[20:21:59] [Server thread/INFO]: Time elapsed: 1047 ms
+[20:21:59] [Server thread/INFO]: Done (4.254s)! For help, type "help"
+[20:24:11] [User Authenticator #1/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
+[20:24:13] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:51976] logged in with entity id 1 at (-347.6667953092411, -24.0, 322.52612232217086)
+[20:24:13] [Server thread/INFO]: Dekinaiii joined the game
+[20:24:37] [Server thread/INFO]: Dekinaiii (/[0:0:0:0:0:0:0:1%0]:57538) lost connection: Timed out
