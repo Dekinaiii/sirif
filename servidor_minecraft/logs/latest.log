@@ -1,52 +1,24 @@
-[19:27:17] [ServerMain/ERROR]: Failed to load properties from file: server.properties
-java.nio.file.NoSuchFileException: server.properties
-	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
-	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
-	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
-	at java.base/java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
-	at java.base/java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
-	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
-	at java.base/java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
-	at apr.b(SourceFile:62) ~[server-1.21.1.jar:?]
-	at apo.a(SourceFile:141) ~[server-1.21.1.jar:?]
-	at app.<init>(SourceFile:12) ~[server-1.21.1.jar:?]
-	at net.minecraft.server.Main.main(SourceFile:114) ~[server-1.21.1.jar:?]
-	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[19:27:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:27:18] [ServerMain/INFO]: No existing world data, creating new world
-[19:27:18] [ServerMain/INFO]: Loaded 1290 recipes
-[19:27:19] [ServerMain/INFO]: Loaded 1399 advancements
-[19:27:19] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[19:27:19] [Server thread/INFO]: Loading properties
-[19:27:19] [Server thread/INFO]: Default game type: SURVIVAL
-[19:27:19] [Server thread/INFO]: Generating keypair
-[19:27:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:27:19] [Server thread/INFO]: Using epoll channel type
-[19:27:19] [Server thread/INFO]: Preparing level "world"
-[19:27:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:27:25] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:27:26] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[19:27:26] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[19:27:27] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[19:27:27] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[19:27:28] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[19:27:28] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[19:27:29] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[19:27:29] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[19:27:30] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[19:27:30] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[19:27:31] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[19:27:31] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[19:27:32] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[19:27:32] [Worker-Main-3/INFO]: Preparing spawn area: 53%
-[19:27:32] [Server thread/INFO]: Time elapsed: 7190 ms
-[19:27:32] [Server thread/INFO]: Done (13.203s)! For help, type "help"
-[19:28:39] [User Authenticator #1/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
-[19:28:41] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:45300] logged in with entity id 13 at (-5.5, 97.0, 9.5)
-[19:28:41] [Server thread/INFO]: Dekinaiii joined the game
-[19:29:58] [Server thread/INFO]: Made Dekinaiii a server operator
-[19:30:22] [Server thread/INFO]: [Dekinaiii: The difficulty has been set to Hard]
-[19:31:26] [Server thread/INFO]: [Dekinaiii: Set own game mode to Creative Mode]
-[19:31:45] [Server thread/INFO]: [Dekinaiii: Set the world spawn point to 250, 90, 9 [0.0]]
+[19:48:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:48:07] [ServerMain/INFO]: Loaded 1290 recipes
+[19:48:07] [ServerMain/INFO]: Loaded 1399 advancements
+[19:48:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[19:48:07] [Server thread/INFO]: Loading properties
+[19:48:07] [Server thread/INFO]: Default game type: SURVIVAL
+[19:48:07] [Server thread/INFO]: Generating keypair
+[19:48:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:48:07] [Server thread/INFO]: Using epoll channel type
+[19:48:08] [Server thread/INFO]: Preparing level "world"
+[19:48:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:48:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:48:11] [Server thread/INFO]: Time elapsed: 532 ms
+[19:48:11] [Server thread/INFO]: Done (3.611s)! For help, type "help"
+[19:48:28] [Server thread/INFO]: Nothing changed. The player already is an operator
+[19:49:31] [User Authenticator #1/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
+[19:49:32] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:51984] logged in with entity id 55 at (250.81282345102633, 90.0, 8.876983708286367)
+[19:49:33] [Server thread/INFO]: Dekinaiii joined the game
+[19:50:03] [Server thread/INFO]: Dekinaiii lost connection: Timed out
+[19:50:03] [Server thread/INFO]: Dekinaiii left the game
+[19:52:18] [User Authenticator #2/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
+[19:52:20] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:36470] logged in with entity id 276 at (256.84361531626644, 104.11813560797107, 3.363196003808543)
+[19:52:20] [Server thread/INFO]: Dekinaiii joined the game
+[19:52:48] [Server thread/INFO]: Dekinaiii has made the advancement [Monster Hunter]
