@@ -17,3 +17,13 @@
 [02:18:51] [Server thread/INFO]: MafiOMT[/[0:0:0:0:0:0:0:1%0]:50918] logged in with entity id 47245 at (-6831.608327357014, -32.0, 1742.2359461570832)
 [02:18:51] [Server thread/INFO]: MafiOMT joined the game
 [02:32:14] [Server thread/INFO]: MafiOMT has made the advancement [Not Today, Thank You]
+[02:55:59] [Server thread/INFO]: <MafiOMT> a
+[02:57:34] [Server thread/INFO]: Can't find element 'minecraft:give' of type 'minecraft:mob_effect'
+[02:57:34] [Server thread/INFO]: ...ffect give Maeffect<--[HERE]
+[02:59:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:59:50] [Server thread/INFO]: ect   F FOMT effect ñ    FOMT effect ñ.   FOMT effect ñ.   FOMT effect ñ.    FOMT effect ñ.     FOMT effect ñ.      FOMT effect ñ.       FOMT effect ñ.        FOMT e<--[HERE]
+[02:59:55] [Server thread/INFO]: Integer must not be more than 255, found 25549
+[02:59:55] [Server thread/INFO]: ...eration 5 25549<--[HERE]
+[03:00:08] [Server thread/INFO]: Integer must not be more than 255, found 25549
+[03:00:08] [Server thread/INFO]: ...eration 5 25549<--[HERE]
+[03:00:30] [Server thread/INFO]: Made MafiOMT a server operator
