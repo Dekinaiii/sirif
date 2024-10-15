@@ -1,29 +1,27 @@
-[01:17:26] [User Authenticator #5/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
-[01:17:28] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:41472] logged in with entity id 45769 at (-6704.699999988079, 1.0, 1677.7936906754187)
-[01:17:28] [Server thread/INFO]: Dekinaiii joined the game
-[01:21:33] [User Authenticator #6/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
-[01:21:33] [Server thread/INFO]: Dekinaiii lost connection: You logged in from another location
-[01:21:33] [Server thread/INFO]: Dekinaiii left the game
-[01:21:35] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:52276] logged in with entity id 46641 at (-6617.9631583109585, 77.0, 1712.531181934486)
-[01:21:35] [Server thread/INFO]: Dekinaiii joined the game
-[01:23:14] [User Authenticator #7/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
-[01:23:14] [Server thread/INFO]: Dekinaiii lost connection: You logged in from another location
-[01:23:14] [Server thread/INFO]: Dekinaiii left the game
-[01:23:15] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:57106] logged in with entity id 47027 at (-6621.724395637151, 77.0, 1709.3032131744312)
-[01:23:15] [Server thread/INFO]: Dekinaiii joined the game
-[01:23:45] [Server thread/INFO]: Dekinaiii lost connection: Timed out
-[01:23:45] [Server thread/INFO]: Dekinaiii left the game
-[02:18:49] [User Authenticator #8/INFO]: UUID of player MafiOMT is 557f3a42-14f6-4e81-a9e7-a9cc6cea0e36
-[02:18:51] [Server thread/INFO]: MafiOMT[/[0:0:0:0:0:0:0:1%0]:50918] logged in with entity id 47245 at (-6831.608327357014, -32.0, 1742.2359461570832)
-[02:18:51] [Server thread/INFO]: MafiOMT joined the game
-[02:32:14] [Server thread/INFO]: MafiOMT has made the advancement [Not Today, Thank You]
-[02:55:59] [Server thread/INFO]: <MafiOMT> a
-[02:57:34] [Server thread/INFO]: Can't find element 'minecraft:give' of type 'minecraft:mob_effect'
-[02:57:34] [Server thread/INFO]: ...ffect give Maeffect<--[HERE]
-[02:59:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:59:50] [Server thread/INFO]: ect   F FOMT effect ñ    FOMT effect ñ.   FOMT effect ñ.   FOMT effect ñ.    FOMT effect ñ.     FOMT effect ñ.      FOMT effect ñ.       FOMT effect ñ.        FOMT e<--[HERE]
-[02:59:55] [Server thread/INFO]: Integer must not be more than 255, found 25549
-[02:59:55] [Server thread/INFO]: ...eration 5 25549<--[HERE]
-[03:00:08] [Server thread/INFO]: Integer must not be more than 255, found 25549
-[03:00:08] [Server thread/INFO]: ...eration 5 25549<--[HERE]
-[03:00:30] [Server thread/INFO]: Made MafiOMT a server operator
+[16:13:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:13:52] [ServerMain/INFO]: Loaded 1290 recipes
+[16:13:53] [ServerMain/INFO]: Loaded 1399 advancements
+[16:13:53] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:13:53] [Server thread/INFO]: Loading properties
+[16:13:53] [Server thread/INFO]: Default game type: SURVIVAL
+[16:13:53] [Server thread/INFO]: Generating keypair
+[16:13:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:13:53] [Server thread/INFO]: Using epoll channel type
+[16:13:54] [Server thread/INFO]: Preparing level "world"
+[16:13:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:13:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:14:01] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:14:01] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:14:01] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:14:01] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:14:01] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:14:01] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[16:14:01] [Worker-Main-2/INFO]: Preparing spawn area: 28%
+[16:14:02] [Server thread/INFO]: Time elapsed: 4003 ms
+[16:14:02] [Server thread/INFO]: Done (8.357s)! For help, type "help"
+[16:14:36] [User Authenticator #1/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
+[16:14:39] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:43464] logged in with entity id 7 at (-6663.541710250838, -9.0, 1662.9955246124878)
+[16:14:39] [Server thread/INFO]: Dekinaiii joined the game
+[16:18:39] [Server thread/INFO]: Dekinaiii lost connection: Timed out
+[16:18:39] [Server thread/INFO]: Dekinaiii left the game
+[16:18:39] [Server thread/WARN]: handleDisconnection() called twice
