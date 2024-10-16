@@ -1,27 +1,27 @@
-[16:13:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:13:52] [ServerMain/INFO]: Loaded 1290 recipes
-[16:13:53] [ServerMain/INFO]: Loaded 1399 advancements
-[16:13:53] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[16:13:53] [Server thread/INFO]: Loading properties
-[16:13:53] [Server thread/INFO]: Default game type: SURVIVAL
-[16:13:53] [Server thread/INFO]: Generating keypair
-[16:13:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:13:53] [Server thread/INFO]: Using epoll channel type
-[16:13:54] [Server thread/INFO]: Preparing level "world"
-[16:13:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:13:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:14:01] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:14:01] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:14:01] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:14:01] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:14:01] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:14:01] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[16:14:01] [Worker-Main-2/INFO]: Preparing spawn area: 28%
-[16:14:02] [Server thread/INFO]: Time elapsed: 4003 ms
-[16:14:02] [Server thread/INFO]: Done (8.357s)! For help, type "help"
-[16:14:36] [User Authenticator #1/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
-[16:14:39] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:43464] logged in with entity id 7 at (-6663.541710250838, -9.0, 1662.9955246124878)
-[16:14:39] [Server thread/INFO]: Dekinaiii joined the game
-[16:18:39] [Server thread/INFO]: Dekinaiii lost connection: Timed out
-[16:18:39] [Server thread/INFO]: Dekinaiii left the game
-[16:18:39] [Server thread/WARN]: handleDisconnection() called twice
+[17:12:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:12:48] [ServerMain/INFO]: Loaded 1290 recipes
+[17:12:48] [ServerMain/INFO]: Loaded 1399 advancements
+[17:12:50] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:12:50] [Server thread/INFO]: Loading properties
+[17:12:50] [Server thread/INFO]: Default game type: SURVIVAL
+[17:12:50] [Server thread/INFO]: Generating keypair
+[17:12:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:12:50] [Server thread/INFO]: Using epoll channel type
+[17:12:50] [Server thread/INFO]: Preparing level "world"
+[17:12:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:12:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:12:53] [Worker-Main-3/INFO]: Preparing spawn area: 44%
+[17:12:53] [Server thread/INFO]: Time elapsed: 564 ms
+[17:12:53] [Server thread/INFO]: Done (3.380s)! For help, type "help"
+[17:18:32] [User Authenticator #1/INFO]: UUID of player Dekinaiii is 6a3ffaff-37bf-4f08-8033-6bb9a22e561b
+[17:18:34] [Server thread/INFO]: Dekinaiii[/[0:0:0:0:0:0:0:1%0]:38614] logged in with entity id 7 at (-6704.670358660512, 5.0, 1681.9886300869148)
+[17:18:34] [Server thread/INFO]: Dekinaiii joined the game
+[17:25:53] [User Authenticator #2/INFO]: UUID of player MafiOMT is 557f3a42-14f6-4e81-a9e7-a9cc6cea0e36
+[17:25:54] [Server thread/INFO]: MafiOMT[/[0:0:0:0:0:0:0:1%0]:45604] logged in with entity id 1808 at (-6676.300000011921, 96.0, 1631.8310362324085)
+[17:25:54] [Server thread/INFO]: MafiOMT joined the game
+[17:30:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-6692, y=103, z=1634} jd{x=-6692, y=102, z=1633}
+[17:30:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-6698, y=103, z=1632} jd{x=-6698, y=102, z=1633}
+[17:31:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-6708, y=103, z=1667} jd{x=-6708, y=102, z=1668}
+[17:31:42] [Server thread/INFO]: [Dekinaiii: Made MafiOMT no longer a server operator]
+[17:31:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-6705, y=103, z=1670} jd{x=-6704, y=102, z=1670}
+[17:32:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-6699, y=103, z=1666} jd{x=-6699, y=102, z=1665}
