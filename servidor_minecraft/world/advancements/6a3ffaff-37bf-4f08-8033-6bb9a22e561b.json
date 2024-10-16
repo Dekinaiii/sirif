@@ -10,6 +10,7 @@
       "minecraft:cold_ocean": "2024-10-13 23:26:40 +0000",
       "minecraft:flower_forest": "2024-10-13 22:15:05 +0000",
       "minecraft:savanna_plateau": "2024-10-13 19:28:56 +0000",
+      "minecraft:snowy_slopes": "2024-10-16 17:45:24 +0000",
       "minecraft:beach": "2024-10-13 21:34:21 +0000",
       "minecraft:forest": "2024-10-13 20:06:16 +0000",
       "minecraft:sparse_jungle": "2024-10-13 21:08:13 +0000",
@@ -57,6 +58,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-10-13 20:49:49 +0000",
+      "minecraft:enderman": "2024-10-16 17:44:18 +0000",
       "minecraft:spider": "2024-10-13 19:52:48 +0000",
       "minecraft:zombie": "2024-10-13 20:15:32 +0000",
       "minecraft:creeper": "2024-10-13 22:59:41 +0000",
@@ -1932,6 +1934,36 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-10-14 18:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-10-16 17:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-10-16 17:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-10-16 17:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-10-16 17:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-10-16 17:44:57 +0000"
     },
     "done": true
   },
